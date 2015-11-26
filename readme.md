@@ -4,12 +4,10 @@ title: "Getting started with this theme"
 ---
 
 #Begin
-
 Edit the index.html to taste. Add links, content and nav.
 Build the site using jekyll serve.
 
 #To do
-
 * Automate index.html creation
 * Integrate the Navgoco JS plugin in for fancy sidebar nav action
     http://idratherbewriting.com/documentation-theme-jekyll/doc_sidebar_navigation.html
