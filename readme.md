@@ -1,8 +1,3 @@
----
-layout: base
-title: "Getting started with this theme"
----
-
 #Begin
 
 Edit the index.html to taste. Add links, content and nav.
