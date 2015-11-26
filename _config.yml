@@ -1,0 +1,13 @@
+# Site settings
+title: Product documentation libray
+# email: your-email@domain.com
+description: Document Library
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+# only use suffix if you need to force index.html to display
+# suffix: index.html
+# host: 127.0.0.1
+# theme_file: theme-blue.css
+
+# Build settings
+markdown: kramdown
