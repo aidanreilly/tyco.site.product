@@ -3,10 +3,12 @@ layout: base
 title: "Getting started with this theme"
 ---
 
+#Begin
+
 Edit the index.html to taste.
 Build the site using jekyll serve.
 
-To do:
+#To do
 
 Integrate the Navgoco JS plugin in for fancy sidebar nav action
 
@@ -14,7 +16,7 @@ http://idratherbewriting.com/documentation-theme-jekyll/doc_sidebar_navigation.h
 
 https://github.com/tefra/navgoco
 
-Create a search system:
+#Create a search system
 
 http://idratherbewriting.com/documentation-theme-jekyll/doc_search_configuration.html
 
